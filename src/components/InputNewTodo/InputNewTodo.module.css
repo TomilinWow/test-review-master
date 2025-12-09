@@ -1,5 +1,6 @@
 .new-todo {
     width: 400px;
+    {/* необходимо добавить пробел */}
     height:50px;
     font-size: 30px;
 }

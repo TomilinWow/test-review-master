@@ -1,5 +1,6 @@
 .todo {
     width: 400px;
+    {/* необходимо добавить пробел */}
     height:50px;
     display: flex;
     box-shadow: 6px 8px 4px 1px rgb(0 0 0 / 20%);
